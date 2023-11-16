@@ -1,0 +1,14 @@
+C:\Users\LeXa\Desktop\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\LeXa\Desktop\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\LeXa\Desktop\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Бытовая техника.csproj.AssemblyReference.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Бытовая техника.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.avtorith.resources
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.regisrt.resources
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Бытовая техника.csproj.GenerateResource.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Бытовая техника.csproj.CoreCompileInputs.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.pdb
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.glav_form.resources
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.glav_form_admin.resources

@@ -1,0 +1,11 @@
+C:\Users\LeXa\Desktop\Demo\Demo\bin\Debug\Demo.exe.config
+C:\Users\LeXa\Desktop\Demo\Demo\bin\Debug\Demo.exe
+C:\Users\LeXa\Desktop\Demo\Demo\bin\Debug\Demo.pdb
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.avtorith.resources
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.exe
+C:\Users\LeXa\Desktop\Demo\Demo\obj\Debug\Demo.pdb
